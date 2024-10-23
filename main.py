@@ -428,3 +428,4 @@ assert v3.x == 4 and v3.y == 6
 
 v4 = v1 * 2
 assert v4.x == 2 and v4.y == 4
+
